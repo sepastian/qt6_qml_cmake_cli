@@ -32,7 +32,7 @@ aqt install-qt linux desktop 6.7.1 linux-gcc-64
 
 Qt 6.7.1 should now be installed in `./6.7.1/`.
 
-# Building the App
+# Building
 
 When building, set the `CMAKE_PREFIX_PATH` to where aqtinstall installed Qt 6.7.1. In our example, that's `./6.7.1/`.
 
